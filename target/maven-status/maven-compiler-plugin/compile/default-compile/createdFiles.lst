@@ -1,0 +1,7 @@
+com\insoft\ReservationsApplication.class
+com\insoft\reservation\web\application\ReservationController.class
+com\insoft\reservation\business\domain\RoomReservation.class
+com\insoft\reservation\data\entity\Reservation.class
+com\insoft\reservation\web\dto\RequestDTO.class
+com\insoft\reservation\business\service\ReservationService.class
+com\insoft\reservation\data\repository\ReservationRepository.class
